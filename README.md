@@ -1,10 +1,9 @@
-### Hi, my name is Daniel[linkedin] 👋
+### Hi, my name is Daniel [linkedin] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dancnascimento_)
 
 ## I'm son, develper, and student!
 
-- 🔭 I just finished my project using PostgreSQL + Java EE: [Become A VS Code SuperHero!][course]!
+- 🔭 I just finished my project using PostgreSQL + Java EE!
 - 🌱 I’m currently learning JavaScript exhaustively! 😳
 - 👯 I’m looking for a team ! to develop projects in React ! so please get'n touch! 🤣
 - 🥅 2020 Goals: Go deeper and become a FullStack with < React NodeJs React Native /> 🚶
@@ -35,8 +34,7 @@
 <br />
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+<summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
@@ -46,14 +44,13 @@
 5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--END_SECTION:activity-->
 
-</details>
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [twitter]: https://twitter.com/dancnascimento_
 [linkedin]: https://www.linkedin.com/in/daniel-nascimento-67454b157/
