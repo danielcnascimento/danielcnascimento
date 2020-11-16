@@ -5,12 +5,12 @@
 - 🔭 Já finalizei um projeto em Java EE, usando PostgreSQL e Servlets!
 - 🚧 Atualmente trabalhando com Hessa[her] em projetos React Native.
 - 🌱 Estudando muito Js no momento! 😳
-- 👯‍♂️ Estou em procura de equipe! Para desenvolver projetos usando React Js, fique a vontade para me dar um Oi caso esteja interessado também 🤣
+- 👯‍♂️ Estou em procura de equipe! Para desenvolver projetos usando React Js, fique a vontade para me dar um Oi caso esteja interessado também.
 - 🥅 2020 Goals: Quero contribuir mais no github, com essa stack: < React NodeJs React Native /> 🚶
 - 🕹️ Fun fact: Amo jogar | pensar no futuro!
 
 
-### Como entrar em contato comigo: 
+### Como entrar em contato comigo ☎️: 
 
 [<img align="left" alt="Daniel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Daniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -20,7 +20,7 @@
 
 <br />
 
-### Llingagens e Ferramentas 🧰👨‍💻:
+### Linguagens e Ferramentas 🧰:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
@@ -34,18 +34,6 @@
 
 <br />
 <br />
-
-
-<summary>:zap: Atividades recentes</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-<!--END_SECTION:activity-->
-
 
 [twitter]: https://twitter.com/dancnascimento_
 [vscode]: https://www.youtube.com/watch?v=FCC2GbStmfc
