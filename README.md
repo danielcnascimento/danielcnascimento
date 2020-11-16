@@ -1,6 +1,6 @@
-### Hi, I'm Daniel 👋
+### Oi, sou Daniel 👋
 
-## I'm son, develper, and student!
+## Sou dev junior, meu objetivo é ter carreira solida como programador!
 
 - 🔭 Já finalizei um projeto em Java EE, usando PostgreSQL e Servlets!
 - 🚧 Atualmente trabalhando com Hessa[her] em projetos React Native.
@@ -36,7 +36,7 @@
 <br />
 
 
-<summary>:zap: Recent GitHub Activity</summary>
+<summary>:zap: Atividades recentes</summary>
   
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
