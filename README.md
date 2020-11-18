@@ -1,6 +1,6 @@
 ### Oi, sou Daniel 👋
 
-## Sou dev junior, meu objetivo é ter carreira solida como programador!
+## Sou dev junior, meu objetivo é ter carreira solida na área!
 
 - 🔭 Já finalizei um projeto em Java EE, usando PostgreSQL e Servlets!
 - 🚧 Atualmente trabalhando com Hessa[her] em projetos React Native.
