@@ -10,7 +10,7 @@
 - 🕹️ Fun fact: Amo jogar | pensar no futuro!
 
 
-### Como entrar em contato comigo ☎️: 
+### Como entrar em contato comigo ✍️: 
 
 [<img align="left" alt="Daniel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Daniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
