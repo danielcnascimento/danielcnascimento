@@ -2,7 +2,7 @@
 
 ## Sou dev junior, meu objetivo é ter carreira solida na área!
 
-- 🔭 Finalizado projeto Web usando PostgreSQL Bootstrap e Servlets!
+- 🔭 Projeto Web finalizado, usando PostgreSQL Bootstrap e Servlets!
 - 🚧 Atualmente trabalhando com [her] em projetos React Native.
 - 🌱 Estudando muito Js no momento! 😳
 - 👯‍♂️ Estou em procura de equipe! Para desenvolver projetos com ReactJs
