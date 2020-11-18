@@ -2,11 +2,11 @@
 
 ## Sou dev junior, meu objetivo é ter carreira solida na área!
 
-- 🔭 Já finalizei um projeto em Java EE, usando PostgreSQL e Servlets!
-- 🚧 Atualmente trabalhando com Hessa[her] em projetos React Native.
+- 🔭 Finalizado projeto Web usando PostgreSQL Bootstrap e Servlets!
+- 🚧 Atualmente trabalhando com [her] em projetos React Native.
 - 🌱 Estudando muito Js no momento! 😳
-- 👯‍♂️ Estou em procura de equipe! Para desenvolver projetos usando React Js, fique a vontade para me dar um Oi caso esteja interessado também.
-- 🥅 2020 Goals: Quero contribuir mais no github, com essa stack: < React NodeJs React Native /> 🚶
+- 👯‍♂️ Estou em procura de equipe! Para desenvolver projetos com ReactJs
+- 🥅 2020 Goals: Quero contribuir com a comunidade < ReactJs NodeJs ReactNative /> 🚶
 - 🕹️ Fun fact: Amo jogar | pensar no futuro!
 
 
