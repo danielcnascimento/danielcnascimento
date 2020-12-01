@@ -3,7 +3,7 @@
 ## Sou dev junior, meu objetivo é ter carreira solida na área!
 
 - 🔭 Estudando gestão em técnologia: SCRUM!
-- 🚧 Atualmente trabalhando com Hessa[her] em projetos React Native.
+- 🚧 Atualmente trabalhando com [her] em projetos React Native.
 - 🌱 Aprendendo muito Js no momento! 😳
 - 👯‍♂️ Estou em procura de equipe! Para desenvolver projetos com ReactJs.
 - 🥅 2021 Goals: Quero contribuir com a comunidade < ReactJs NodeJs ReactNative /> 🚶
