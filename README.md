@@ -1,22 +1,22 @@
-### Oi, sou Daniel 👋
+### Hey, sou Daniel 👋
 
-## Sou dev junior, meu objetivo é ter carreira solida na área!
+## Sou Desenvolvedor Web Jr., meu objetivo é ter carreira solida como dev fullstack!
 
-- 🔭 Estudando gestão em técnologia: SCRUM!
+- 🔭 Trabalhando em projetos WEB Fullstack!
+- 🎨 Desenvolvedor WEB responsive designing.
 - 🚧 Atualmente trabalhando com [her] em projetos React Native.
 - 🌱 Aprendendo muito Js no momento! 😳
-- 👯‍♂️ Estou em procura de equipe! Para desenvolver projetos com ReactJs.
+- 🤜🤛 Estou em procura de equipe! Para desenvolver projetos com ReactJs.
 - 🥅 2021 Goals: Quero contribuir com a comunidade < ReactJs NodeJs ReactNative /> 🚶
 - 🕹️ Fun fact: Amo jogar | pensar no futuro!
 
 
-### Como entrar em contato comigo ✍️: 
+### Como entrar em contato comigo ✍️:
 
 [<img align="left" alt="Daniel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Daniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Daniel | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="Daniel | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-
 
 <br />
 
