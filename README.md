@@ -1,10 +1,10 @@
 ### Hey, sou Daniel 👋
 
-## Sou Desenvolvedor Web Jr., meu objetivo é ter carreira solida como dev fullstack!
+## Sou Desenvolvedor Web Jr. com objetivo de ter carreira solida Fullstack.
 
 - 🔭 Trabalhando em projetos WEB Fullstack!
 - 🎨 Desenvolvedor WEB responsive designing.
-- 🚧 Atualmente trabalhando com [her] em projetos React Native.
+- 🚧 Atualmente trabalhando com [Hessa Ajaj] em projetos React Native.
 - 🌱 Aprendendo muito Js no momento! 😳
 - 🤜🤛 Estou em procura de equipe! Para desenvolver projetos com ReactJs.
 - 🥅 2021 Goals: Quero contribuir com a comunidade < ReactJs NodeJs ReactNative /> 🚶
@@ -47,4 +47,4 @@
 [reactplaylist]: https://www.youtube.com/watch?v=Ws9WVHhNq5M&t=597s
 [discord]:https://discord.com/channels/@me
 [whatsapp]:https://api.whatsapp.com/send?phone=5521966305390&text=Ola!
-[her]:https://twitter.com/HesSoftDev
+[Hessa Ajaj]:https://twitter.com/HesSoftDev
