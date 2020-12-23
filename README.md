@@ -29,6 +29,7 @@
 [<img align="left" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="sqlite" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sqlite]
+[<img align="left" alt="mongo" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
 [<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
 
 
@@ -40,10 +41,12 @@
 [linkedin]: https://www.linkedin.com/in/daniel-nascimento-67454b157/
 [postgresql]: https://www.youtube.com/watch?v=0vHs-a8zLf4
 [sqlite]: https://www.sqlite.org/index.html
+[mongodb]: https://www.mongodb.com/
 [nodejs]: https://nodejs.org/en/
 [html5]: https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o
+[materialui]: https://material-ui.com/
 [reactplaylist]: https://www.youtube.com/watch?v=Ws9WVHhNq5M&t=597s
 [discord]:https://discord.com/channels/@me
 [whatsapp]:https://api.whatsapp.com/send?phone=5521966305390&text=Ola!
