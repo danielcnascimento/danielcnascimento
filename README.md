@@ -4,33 +4,51 @@
 
 - 🔭 Trabalhando em projetos WEB Fullstack!
 - 🎨 Desenvolvedor WEB responsive designing.
-- 🚧 Atualmente trabalhando com [Hessa Ajaj] em projetos React Native.
-- 🌱 Aprendendo muito Js no momento! 😳
-- 🤜🤛 Estou em procura de equipe! Para desenvolver projetos com ReactJs.
-- 🥅 2021 Goals: Quero contribuir com a comunidade < ReactJs NodeJs ReactNative /> 🚶
-- 🕹️ Fun fact: Amo jogar | pensar no futuro!
+- 🙌 Atualmente trabalhando com [Hessa Ajaj] em projetos React Native.
+- 🌱 Aprendendo muito JS no momento! Graduando - Centro Universitário Carioca | UniCarioca 😳
+- 🤜🤛 Em busca de equipe, para desafios fullstack.
+- 🥅 2021 Goals: Quero contribuir com a comunidade 🚶
+- 🧭 Procuro novos projetos para portifólio, gosto de mixar tudo que aprendo.
+
+### Minhas Linguagens, Ferramentas e Habilidades 🧰:
+
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![Material-UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=material-ui)
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-### Como entrar em contato comigo ✍️:
-
-[<img align="left" alt="Daniel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Daniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Daniel | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="Daniel | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 <br />
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielcnascimento&theme=buefy&show_icons=true" />
+</a>
 
-### Linguagens e Ferramentas 🧰:
+<br />
+<br />
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="sqlite" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sqlite]
-[<img align="left" alt="mongo" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-[<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
+### Como entrar em contato comigo 🤝:
+<p align="center">
+<a href="https://www.linkedin.com/in/daniel-nascimento-67454b157/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Daniel%20Nascimento-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/dancnascimento_/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-dancnascimento__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:ddaniel.conceicao@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ddaniel.conceicao@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://api.whatsapp.com/send?phone=5521966305390&text=Ola!"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-Daniel%20Nascimento-darkgreen?style=flat-square&logo=whatsapp"></a>
+</p>
+
+<br />
 
 
 <br />
