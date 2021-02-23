@@ -7,7 +7,7 @@
 - 🙌 Atualmente trabalhando com [Hessa Ajaj] em projetos React Native.
 - 🌱 Aprendendo muito JS no momento! Graduando - Centro Universitário Carioca | UniCarioca 😳
 - 🤜🤛 Em busca de equipe, para desafios fullstack.
-- 🥅 2021 Goals: Quero contribuir com a comunidade 🚶
+- 🥅 2021 Goals: NextJS - GraphQL - MERN (stack) - BOOTCAMP (js based) 🚶~ respectivamente.
 - 🧭 Procuro novos projetos para portifólio, gosto de mixar tudo que aprendo.
 
 ### Minhas Linguagens, Ferramentas e Habilidades 🧰:
