@@ -32,7 +32,7 @@
 <br />
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielcnascimento&theme=buefy&show_icons=true" />
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width:100%;border-radius:10px;">
+  <img src="https://www.dropbox.com/h?preview=Night-Coding.gif" align="right" style="max-width:100%;border-radius:10px;">
 </a>
 
 <br />
