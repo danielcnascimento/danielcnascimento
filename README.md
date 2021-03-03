@@ -11,7 +11,6 @@
 - 🧭 Procuro novos projetos para portifólio, gosto de mixar tudo que aprendo.
 
 ### Minhas Linguagens, Ferramentas e Habilidades 🧰:
-
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -29,12 +28,11 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-
-
+  
 <br />
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielcnascimento&theme=buefy&show_icons=true" />
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width:100%;border-radius:10px;">
 </a>
 
 <br />
