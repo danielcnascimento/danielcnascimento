@@ -1,4 +1,4 @@
-### Hey, sou Daniel 👋
+### Bem-vindo ao meu perfil, sou Daniel 👋
 
 ## Sou Desenvolvedor Web Jr. com objetivo de ter carreira solida Fullstack.
 
