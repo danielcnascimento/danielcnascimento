@@ -30,9 +30,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 <br />
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/danielcnascimento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielcnascimento&theme=buefy&show_icons=true" />
-  <img src="https://www.dropbox.com/h?preview=Night-Coding.gif" align="right" style="max-width:100%;border-radius:10px;">
+  <img alt="Night Dev" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width:100%;border-radius:10px;"/>
 </a>
 
 <br />
