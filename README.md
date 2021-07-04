@@ -1,13 +1,16 @@
-### Bem-vindo ao meu perfil, sou Daniel 👋
+### 👋 Sou Daniel, Bem vind@ ao meu perfil.
 
-## Sou Desenvolvedor Web Jr. com objetivo de ter carreira solida Fullstack.
+##### Sou Desenvolvedor Web Frontend.
 
-- 🔭 Trabalhando em projetos WEB Fullstack!
-- 🎨 Desenvolvedor WEB responsive designing.
-- 🙌 Atualmente trabalhando com [Hessa Ajaj] em projetos React Native.
-- 🌱 Aprendendo muito JS no momento! Graduando - Centro Universitário Carioca | UniCarioca 😳
-- 🤜🤛 Em busca de equipe, para desafios fullstack.
-- 🥅 2021 Goals: NextJS - GraphQL - MERN (stack) - BOOTCAMP (js based) 🚶~ respectivamente.
+- 🔭 Minha stack: React - React Native - NodeJS.
+- 🎨 WEB dev. responsive designing.
+- 🌐 English Speaker, you can [wave me] for a chat 👋.
+- 🙌 Atualmente trabalhando com [Hessa Ajaj] em projetos React.
+- 🎓 Graduado em Análise e Des. de Sistemas - Unicarioca.
+- 💻 Bootcamp Rocketseat (React Trace).
+- 🌱 Aprendendo mais de JavaScript e ecossitema React.
+- 📋 Mais de 10 projetos deployados na minha Stack.
+- 🥅 2021 Goals: NextJS (✔️ completed) - BOOTCAMP - MERN (stack) ➡️ respectivamente.
 - 🧭 Procuro novos projetos para portifólio, gosto de mixar tudo que aprendo.
 
 ### Minhas Linguagens, Ferramentas e Habilidades 🧰:
@@ -67,3 +70,4 @@
 [discord]:https://discord.com/channels/@me
 [whatsapp]:https://api.whatsapp.com/send?phone=5521966305390&text=Ola!
 [Hessa Ajaj]:https://twitter.com/HesSoftDev
+[wave me]:https://wa.link/0balz5
