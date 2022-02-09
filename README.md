@@ -1,6 +1,6 @@
-### 👋 Sou Daniel, Bem vind@ ao meu perfil.
+### 👋 Sou Daniel, Bem vindo(a) ao meu perfil.
 
-##### Sou Desenvolvedor Web Frontend.
+##### Desenvolvedor Frontend | Web e Mobile.
 
 - 🔭 Minha stack: React - React Native - NodeJS.
 - 🎨 WEB dev. responsive designing.
@@ -10,7 +10,6 @@
 - 💻 Bootcamp Rocketseat (React Trace).
 - 🌱 Aprendendo mais de JavaScript e ecossitema React.
 - 📋 Mais de 10 projetos deployados na minha Stack.
-- 🥅 2021 Goals: NextJS (✔️ completed) - BOOTCAMP - MERN (stack) ➡️ respectivamente.
 - 🧭 Procuro novos projetos para portifólio, gosto de mixar tudo que aprendo.
 
 ### Minhas Linguagens, Ferramentas e Habilidades 🧰:
